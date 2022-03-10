@@ -4,7 +4,7 @@ We will eventually create a logo but for now you can look at this `>\_`.
 
 ## What is `termionus`?
 
-`termionus` is an open source terminal emulator for all operating systems.
+`termionus` is an open source terminal emulator for Windows and Linux operating systems.
 The main focus of `termionus` is to provide great user experience for developers, as well as provide a good support for several types of programs and available shells.
 
 ## Project status
