@@ -9,7 +9,7 @@ The main focus of `termionus` is to provide great user experience for developers
 
 ## Project status
 
-termionus is in a very beginning of the development. This stage can also be described as preparation of the the ground before planting a seed 🌱.
+`termionus` is in the very beginning of development. This stage can also be considered as the preparation of the soil before planting the seed 🌱.
 
 ## How this project started
 
