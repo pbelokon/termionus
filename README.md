@@ -1,6 +1,6 @@
 # `termionus`
 
-We are will eventually create a logo but for now you can look at this >\_
+We will eventually create a logo but for now you can look at this `>\_`.
 
 ## What is `termionus`?
 
