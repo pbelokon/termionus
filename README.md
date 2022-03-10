@@ -18,4 +18,4 @@ horrible terminal emulators he sought why not create my own. He brought this ide
 
 ## Who built it?
 
-termionus was created in the begging of spring of 2022 by two friends [Gerardo Enrique Arriaga Rendon](https://github.com/JerryHue) and [Pavel Belokon](https://github.com/pbelokon).
+`termionus` started development in the beginning of spring, 2022, by two programmers: [Gerardo Enrique Arriaga Rendon](https://github.com/JerryHue) and [Pavel Belokon](https://github.com/pbelokon).
