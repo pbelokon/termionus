@@ -13,8 +13,11 @@ termionus is in a very beginning of the development. This stage can also be desc
 
 ## How this project started
 
-This project came out spontaneously. Initially me([Pavel Belokon](https://github.com/pbelokon)) and my best friend [Gerardo Enrique Arriaga Rendon](https://github.com/JerryHue), planed to work on a Plain Text editor but we never could start! "Usually what happens to a lot of projects😐". One day after my friend got tired of using
-horrible terminal emulators he sought why not create my own. He brought this idea to me and it sounded more interesting the a text editor, so we scraped all other unstarted projects we had, and started serous on this one. A quote that describes everything "If you don't like something make your own"!
+This project came out spontaneously. Initially me ([Pavel Belokon](https://github.com/pbelokon)) and my best friend, [Gerardo Enrique Arriaga Rendon](https://github.com/JerryHue), planned to work on a plain text editor, yet we never started it! As it usually happens with a lot of projects 😐. One day after my friend got tired of using
+and trying terminal emulators that did not meet his needs, he thought, "why not create my own?" He mentioned his idea to me, and it sounded more interesting than a text editor, so we scrapped all the other projects we had planned, and started for real on this one. A quote that describes this project very well:
+
+     If you don't like something make it yourself! 
+     - Anonymous
 
 ## Who built it?
 
